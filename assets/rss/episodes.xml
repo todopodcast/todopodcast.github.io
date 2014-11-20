@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
-        <title>todo podcast</title>
+        <title>todo</title>
         <link>http://todopodcast.github.io</link>
-        <description>Подкаст для начинающих разработчиков</description>
+        <description>Подкаст для начинающих разработчиков. Выходит примерно раз в неделю. Выпуски не дольше часа.</description>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <pubDate>Thu, 20 Nov 2014 10:26:03 +0300</pubDate>
@@ -26,6 +26,7 @@
             <enclosure url="http://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_1.mp3" length="0" type="audio/mpeg"/>
             <guid isPermaLink="false">4BA46B90-0F1B-4D47-98A7-537B7161D1A1</guid>
             <itunes:author>Konstantin Chukhlomin</itunes:author>
+            <itunes:author>Stas Ivanov</itunes:author>
             <itunes:summary><![CDATA[02:06 Представление Стаса
 10:25 Представление Константина
 20:42 Краткий обзор вакансий
