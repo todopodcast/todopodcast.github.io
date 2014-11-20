@@ -5,13 +5,14 @@
         <link>http://todopodcast.github.io</link>
         <description>Подкаст для начинающих разработчиков. Выходит примерно раз в неделю. Выпуски не дольше часа.</description>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <language>en</language>
+        <language>ru</language>
         <pubDate>Thu, 20 Nov 2014 10:26:03 +0300</pubDate>
         <lastBuildDate>Thu, 20 Nov 2014 10:26:03 +0300</lastBuildDate>
         <itunes:image href="http://todopodcast.github.io/assets/images/logo_1400.png"/>
         <itunes:explicit>clean</itunes:explicit>
         <itunes:block>no</itunes:block>
         <itunes:category text="Education"/>
+            <itunes:category text="Technology"/>
         <itunes:category text="Technology">
             <itunes:category text="Software How-To"/>
         </itunes:category>
