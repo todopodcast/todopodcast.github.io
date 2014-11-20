@@ -11,6 +11,8 @@
         <itunes:image href="http://todopodcast.github.io/assets/images/logo_1400.png"/>
         <itunes:explicit>clean</itunes:explicit>
         <itunes:block>no</itunes:block>
+        <itunes:author>Konstantin Chukhlomin</itunes:author>
+        <itunes:author>Stas Ivanov</itunes:author>
         <itunes:category text="Education"/>
             <itunes:category text="Technology"/>
         <itunes:category text="Technology">
@@ -26,8 +28,6 @@
             <pubDate>Thu, 20 Nov 2014 10:26:02 +0300</pubDate>
             <enclosure url="http://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_1.mp3" length="0" type="audio/mpeg"/>
             <guid isPermaLink="false">4BA46B90-0F1B-4D47-98A7-537B7161D1A1</guid>
-            <itunes:author>Konstantin Chukhlomin</itunes:author>
-            <itunes:author>Stas Ivanov</itunes:author>
             <itunes:summary><![CDATA[02:06 Представление Стаса
 10:25 Представление Константина
 20:42 Краткий обзор вакансий
