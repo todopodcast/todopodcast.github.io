@@ -1,4 +1,43 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>todo</title><description>Подкаст для начинающих разработчиков</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Mon, 08 Dec 2014 22:23:54 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>1. Пилотный выпуск (обрезки)</title><description>&lt;audio controls preload="none" data-length="108" width="100%"&gt;  
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>todo</title><description>Подкаст для начинающих разработчиков</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Wed, 10 Dec 2014 19:30:22 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>2. Game/Mobile/Web-разработка</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+&lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_2.mp3" type="audio/mpeg"&gt;  
+&lt;/audio&gt;  
+
+&lt;p&gt;&lt;a href="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_2.mp3"&gt;Скачать&lt;/a&gt; 66,9 МБ ≈ 49 минут&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;00:40&lt;/code&gt; Разработка игр&lt;br&gt;
+&lt;code&gt;01:15&lt;/code&gt; – &lt;a href="http://www.blitzbasic.com/"&gt;Blitz 3D&lt;/a&gt;&lt;br&gt;
+&lt;code&gt;02:00&lt;/code&gt; – &lt;a href="http://unity3d.com/ru"&gt;Unity&lt;/a&gt; 
+(&lt;a href="http://www.monumentvalleygame.com/"&gt;Monument Valley&lt;/a&gt;, &lt;a href="http://www.fireproofgames.com/the-room"&gt;The Room&lt;/a&gt;, &lt;a href="http://teslagrad.com/"&gt;Teslagrad&lt;/a&gt;)&lt;br&gt;
+&lt;code&gt;07:30&lt;/code&gt; – Спрайты / анимация&lt;br&gt;
+&lt;code&gt;11:00&lt;/code&gt; – Про тренинг о коллаборации&lt;br&gt;
+&lt;code&gt;12:10&lt;/code&gt; – Игры под Web&lt;br&gt;
+&lt;code&gt;12:44&lt;/code&gt; Разработка мобильный приложений&lt;br&gt;
+&lt;code&gt;13:15&lt;/code&gt; – Android, &lt;a href="https://developer.android.com/sdk/index.html"&gt;Android Studio&lt;/a&gt;, &lt;a href="https://www.jetbrains.com/"&gt;JetBrains&lt;/a&gt;&lt;br&gt;
+&lt;code&gt;14:15&lt;/code&gt; – iOs, Objective-C, &lt;a href="https://developer.apple.com/swift/"&gt;Swift&lt;/a&gt;, &lt;a href="https://developer.apple.com/xcode/"&gt;Xcode&lt;/a&gt;&lt;br&gt;
+&lt;code&gt;18:20&lt;/code&gt; Разработка под Web&lt;br&gt;
+&lt;code&gt;18:30&lt;/code&gt; – PHP&lt;br&gt;
+&lt;code&gt;23:30&lt;/code&gt; – Javascript&lt;br&gt;
+&lt;code&gt;25:25&lt;/code&gt; – HTML / Верстка&lt;br&gt;
+&lt;code&gt;28:30&lt;/code&gt; – ...&lt;br&gt;
+&lt;code&gt;39:30&lt;/code&gt; – Backend &lt;br&gt;
+&lt;code&gt;44:20&lt;/code&gt; Web &amp;amp; Game&lt;br&gt;
+&lt;code&gt;46:25&lt;/code&gt; ВКонтакте&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Также упоминалось:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://getbootstrap.com/"&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bohemiancoding.com/sketch/"&gt;Sketch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://kineticjs.com/"&gt;KineticJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fortawesome.github.io/Font-Awesome/"&gt;Font Awesome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fontello.com/"&gt;Fontello&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nginx.org/"&gt;nginx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.docker.com/"&gt;Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Книга «Разработка высоконагруженных систем»
+(По материалам конференции HighLoad++ 2010-2011)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Извините за сбивчивый рассказ, но мы стараемся. Оставляйте ваши комментарии в iTunes и на этом сайте.&lt;/p&gt;</description><link>http://localhost:2368/2014/12/10/game-mobile-web/</link><guid isPermaLink="false">654d6b88-3810-4b22-bda6-f30446f65807</guid><category>выпуск</category><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Wed, 10 Dec 2014 19:20:00 GMT</pubDate></item><item><title>1. Пилотный выпуск (обрезки)</title><description>&lt;audio controls preload="none" data-length="108" width="100%"&gt;  
 &lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_1_cut.mp3" type="audio/mpeg"&gt;  
 &lt;/audio&gt;
 
