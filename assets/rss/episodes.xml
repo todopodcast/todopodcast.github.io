@@ -7,7 +7,7 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>ru</language>
         <pubDate>Thu, 20 Nov 2014 10:26:03 +0300</pubDate>
-        <lastBuildDate>Thu, 20 Nov 2014 10:26:03 +0300</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2015 23:40:02 -0500</lastBuildDate>
         <itunes:image href="http://todopodcast.github.io/assets/images/logo_1400.png"/>
         <itunes:explicit>clean</itunes:explicit>
         <itunes:block>no</itunes:block>
@@ -17,6 +17,62 @@
         <itunes:category text="Technology">
             <itunes:category text="Software How-To"/>
         </itunes:category>
+        <item>
+            <title>3. Команда</title>
+            <link>http://todopodcast.github.io/2015/02/24/team/</link>
+            <description><![CDATA[<p>00:55 Наши новости: повышение
+<br />07:20 Рубль
+<br />09:40 Доклад Пацан накодил — пацан протестил!
+<br />12:30 Тема выпуска
+<br />12:50 Одиночки
+<br />13:40 Парное программирование
+<br />16:30 Как поставлен процесс разработки у нас
+<br />18:30 Состав команды
+<br />21:00 Конфликты в команде
+<br />21:40 Менеджеры мешают?
+<br />23:00 Переход в менеджеры</p>
+<p>Также упоминалось:</p>
+<ul>
+<li>TDD</li>
+<li>Ping-pong, живая демонстрация</li>
+<li>XP</li>
+<li>Agile</li>
+<li>Scrum</li>
+<li>Каталог докладов и семинаров</li>
+<li>Рефакторинг</li>
+<li>Continuous Integration</li>
+<li>Continuous Delivery</li>
+</ul>
+]]></description>
+            <pubDate>Thu, 24 Feb 2015 23:40:02 -0500</pubDate>
+            <enclosure url="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_3.mp3" length="0" type="audio/mpeg"/>
+            <guid isPermaLink="false">BC8D6EF2-E990-4809-A12E-CE1DD61022BE</guid>
+            <itunes:summary><![CDATA[00:55 Наши новости: повышение
+07:20 Рубль
+09:40 Доклад Пацан накодил — пацан протестил!
+12:30 Тема выпуска
+12:50 Одиночки
+13:40 Парное программирование
+16:30 Как поставлен процесс разработки у нас
+18:30 Состав команды
+21:00 Конфликты в команде
+21:40 Менеджеры мешают?
+23:00 Переход в менеджеры</p>
+
+Также упоминалось:
+– TDD
+– Ping-pong, живая демонстрация
+– XP
+– Agile
+– Scrum
+– Каталог докладов и семинаров
+– Рефакторинг
+– Continuous Integration
+– Continuous Delivery
+]]></itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>26:45</itunes:duration>
+        </item>
         <item>
             <title>2. Game/Mobile/Web-разработка</title>
             <link>http://todopodcast.github.io/2014/12/10/game-mobile-web/</link>
