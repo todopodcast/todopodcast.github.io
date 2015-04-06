@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>todo</title><description>Подкаст для начинающих разработчиков</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Mon, 06 Apr 2015 20:57:20 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>4. Начинающим</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>todo</title><description>Подкаст для начинающих разработчиков</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Mon, 06 Apr 2015 21:00:44 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>4. Начинающим</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
 &lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_4.mp3" type="audio/mpeg"&gt;  
 &lt;/audio&gt;  
 
@@ -31,7 +31,7 @@
 &lt;li&gt;Подкасты
 &lt;ul&gt;&lt;li&gt;&lt;a href="http://www.radio-t.com/"&gt;Radio-T&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.healthyhacker.com/"&gt;Heathy Hacker&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><link>http://localhost:2368/2015/04/06/for-beniggners/</link><guid isPermaLink="false">b7690549-87e7-4828-842d-42170b26bb73</guid><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Mon, 06 Apr 2015 20:44:11 GMT</pubDate></item><item><title>3. Команда</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+&lt;/ul&gt;</description><link>http://localhost:2368/2015/04/06/for-beniggners/</link><guid isPermaLink="false">b7690549-87e7-4828-842d-42170b26bb73</guid><category>выпуск</category><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Mon, 06 Apr 2015 20:44:11 GMT</pubDate></item><item><title>3. Команда</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
 &lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_3.mp3" type="audio/mpeg"&gt;  
 &lt;/audio&gt;  
 
