@@ -18,60 +18,21 @@
             <itunes:category text="Software How-To"/>
         </itunes:category>
         <item>
-            <title>3. Команда</title>
-            <link>http://todopodcast.github.io/2015/02/24/team/</link>
-            <description><![CDATA[<p>00:55 Наши новости: повышение
-<br />07:20 Рубль
-<br />09:40 Доклад Пацан накодил — пацан протестил!
-<br />12:30 Тема выпуска
-<br />12:50 Одиночки
-<br />13:40 Парное программирование
-<br />16:30 Как поставлен процесс разработки у нас
-<br />18:30 Состав команды
-<br />21:00 Конфликты в команде
-<br />21:40 Менеджеры мешают?
-<br />23:00 Переход в менеджеры</p>
-<p>Также упоминалось:</p>
-<ul>
-<li>TDD</li>
-<li>Ping-pong, живая демонстрация</li>
-<li>XP</li>
-<li>Agile</li>
-<li>Scrum</li>
-<li>Каталог докладов и семинаров</li>
-<li>Рефакторинг</li>
-<li>Continuous Integration</li>
-<li>Continuous Delivery</li>
-</ul>
-]]></description>
-            <pubDate>Thu, 24 Feb 2015 23:40:02 -0500</pubDate>
-            <enclosure url="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_3.mp3" length="0" type="audio/mpeg"/>
-            <guid isPermaLink="false">BC8D6EF2-E990-4809-A12E-CE1DD61022BE</guid>
-            <itunes:summary><![CDATA[00:55 Наши новости: повышение
-07:20 Рубль
-09:40 Доклад Пацан накодил — пацан протестил!
-12:30 Тема выпуска
-12:50 Одиночки
-13:40 Парное программирование
-16:30 Как поставлен процесс разработки у нас
-18:30 Состав команды
-21:00 Конфликты в команде
-21:40 Менеджеры мешают?
-23:00 Переход в менеджеры</p>
-
-Также упоминалось:
-– TDD
-– Ping-pong, живая демонстрация
-– XP
-– Agile
-– Scrum
-– Каталог докладов и семинаров
-– Рефакторинг
-– Continuous Integration
-– Continuous Delivery
-]]></itunes:summary>
+            <title>1. Пилотный выпуск</title>
+            <link>http://todopodcast.github.io/2014/11/18/pilot/</link>
+            <description><![CDATA[<p>02:06 Представление Стаса
+<br />10:25 Представление Константина
+<br />20:42 Краткий обзор вакансий
+<br />24:59 Анонс</p>]]></description>
+            <pubDate>Thu, 20 Nov 2014 10:26:02 +0300</pubDate>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_1.mp3" length="0" type="audio/mpeg"/>
+            <guid isPermaLink="false">4BA46B90-0F1B-4D47-98A7-537B7161D1A1</guid>
+            <itunes:summary><![CDATA[02:06 Представление Стаса
+10:25 Представление Константина
+20:42 Краткий обзор вакансий
+24:59 Анонс]]></itunes:summary>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>26:45</itunes:duration>
+            <itunes:duration>25:38</itunes:duration>
         </item>
         <item>
             <title>2. Game/Mobile/Web-разработка</title>
@@ -143,21 +104,134 @@
             <itunes:duration>48:43</itunes:duration>
         </item>
         <item>
-            <title>1. Пилотный выпуск</title>
-            <link>http://todopodcast.github.io/2014/11/18/pilot/</link>
-            <description><![CDATA[<p>02:06 Представление Стаса
-<br />10:25 Представление Константина
-<br />20:42 Краткий обзор вакансий
-<br />24:59 Анонс</p>]]></description>
-            <pubDate>Thu, 20 Nov 2014 10:26:02 +0300</pubDate>
-            <enclosure url="http://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_1.mp3" length="0" type="audio/mpeg"/>
-            <guid isPermaLink="false">4BA46B90-0F1B-4D47-98A7-537B7161D1A1</guid>
-            <itunes:summary><![CDATA[02:06 Представление Стаса
-10:25 Представление Константина
-20:42 Краткий обзор вакансий
-24:59 Анонс]]></itunes:summary>
+            <title>3. Команда</title>
+            <link>http://todopodcast.github.io/2015/02/24/team/</link>
+            <description><![CDATA[<p>00:55 Наши новости: повышение
+<br />07:20 Рубль
+<br />09:40 Доклад Пацан накодил — пацан протестил!
+<br />12:30 Тема выпуска
+<br />12:50 Одиночки
+<br />13:40 Парное программирование
+<br />16:30 Как поставлен процесс разработки у нас
+<br />18:30 Состав команды
+<br />21:00 Конфликты в команде
+<br />21:40 Менеджеры мешают?
+<br />23:00 Переход в менеджеры</p>
+<p>Также упоминалось:</p>
+<ul>
+<li>TDD</li>
+<li>Ping-pong, живая демонстрация</li>
+<li>XP</li>
+<li>Agile</li>
+<li>Scrum</li>
+<li>Каталог докладов и семинаров</li>
+<li>Рефакторинг</li>
+<li>Continuous Integration</li>
+<li>Continuous Delivery</li>
+</ul>
+]]></description>
+            <pubDate>Thu, 24 Feb 2015 23:40:02 -0500</pubDate>
+            <enclosure url="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_3.mp3" length="0" type="audio/mpeg"/>
+            <guid isPermaLink="false">BC8D6EF2-E990-4809-A12E-CE1DD61022BE</guid>
+            <itunes:summary><![CDATA[00:55 Наши новости: повышение
+07:20 Рубль
+09:40 Доклад Пацан накодил — пацан протестил!
+12:30 Тема выпуска
+12:50 Одиночки
+13:40 Парное программирование
+16:30 Как поставлен процесс разработки у нас
+18:30 Состав команды
+21:00 Конфликты в команде
+21:40 Менеджеры мешают?
+23:00 Переход в менеджеры
+
+Также упоминалось:
+– TDD
+– Ping-pong, живая демонстрация
+– XP
+– Agile
+– Scrum
+– Каталог докладов и семинаров
+– Рефакторинг
+– Continuous Integration
+– Continuous Delivery
+]]></itunes:summary>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>25:38</itunes:duration>
+            <itunes:duration>26:45</itunes:duration>
+        </item>
+        <item>
+            <title>4. Начинающим</title>
+            <link>http://todopodcast.github.io/2015/04/06/for-beginners/</link>
+            <description><![CDATA[<p>00:30 Представление Жени, как все начиналось
+<br />02:50 Что почитать
+<br />05:40 Онлайн курсы, сайты
+<br />06:50 Что слушать?
+<br />09:05 Куда идти
+<br />10:00 Как попасть в веб-студию
+<br />17:06 Статья «7 типичных ошибок неопытных программистов»</p>
+<p>Также упоминалось:</p>
+<ul>
+<li>Книги
+    <ul>
+        <li>PHP 5</li>
+        <li>Приемы объекто-оринтированного проектирования</li>
+        <li>Head First</li>
+    </ul>
+</li>
+<li>Курсы
+    <ul>
+        <li>Courcera, Введение в интерактивную разработку на Python</li>
+        <li>Udemi.com</li>
+        <li>CodeSchool</li>
+        <li>Codeacademy</li>
+    </ul>
+</li>
+<li>Сайты
+    <ul>
+        <li>PHP. The Right Way, русская версия</li>
+        <li>Yii, Yii Application Development Cookbook</li>
+        <li>Synfony, Cookbook</li>
+    </ul>
+</li>
+<li>Подкасты
+    <ul>
+        <li>Radio-T</li>
+        <li>Heathy Hacker</li>
+    </ul>
+</li>
+</ul>
+]]></description>
+            <pubDate>Mon, 6 Apr 2015 23:54:00 +0300</pubDate>
+            <enclosure url="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_4.mp3" length="0" type="audio/mpeg"/>
+            <guid isPermaLink="false">F2C17579-D94E-4D55-9752-B84546D4670F</guid>
+            <itunes:summary><![CDATA[00:30 Представление Жени, как все начиналось
+02:50 Что почитать
+05:40 Онлайн курсы, сайты
+06:50 Что слушать?
+09:05 Куда идти
+10:00 Как попасть в веб-студию
+17:06 Статья «7 типичных ошибок неопытных программистов»
+
+Также упоминалось:
+Книги
+– PHP 5
+– Приемы объекто-оринтированного проектирования
+– Head First
+Курсы
+– Courcera, Введение в интерактивную разработку на Python
+– Udemi.com
+– CodeSchool
+– Codeacademy
+Сайты
+– PHP. The Right Way, русская версия
+– Yii, Yii Application Development Cookbook
+– Synfony, Cookbook
+Подкасты
+– Radio-T
+– Heathy Hacker
+]]></itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>25:05</itunes:duration>
         </item>
     </channel>
 </rss>

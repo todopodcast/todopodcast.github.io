@@ -1,4 +1,37 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>todo</title><description>Подкаст для начинающих разработчиков</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Thu, 26 Feb 2015 13:50:58 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>3. Команда</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>todo</title><description>Подкаст для начинающих разработчиков</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Mon, 06 Apr 2015 20:57:20 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>4. Начинающим</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+&lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_4.mp3" type="audio/mpeg"&gt;  
+&lt;/audio&gt;  
+
+&lt;p&gt;&lt;a href="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_4.mp3"&gt;Скачать&lt;/a&gt; 22,9 МБ ≈ 25 минут&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;00:30&lt;/code&gt; Представление Жени, как все начиналось&lt;br&gt;
+&lt;code&gt;02:50&lt;/code&gt; Что почитать&lt;br&gt;
+&lt;code&gt;05:40&lt;/code&gt; Онлайн курсы, сайты&lt;br&gt;
+&lt;code&gt;06:50&lt;/code&gt; Что слушать?&lt;br&gt;
+&lt;code&gt;09:05&lt;/code&gt; Куда идти&lt;br&gt;
+&lt;code&gt;10:00&lt;/code&gt; Как попасть в веб-студию&lt;br&gt;
+&lt;code&gt;17:06&lt;/code&gt; Статья «&lt;a href="http://prog-school.ru/2010/02/7-tipichnyx-oshibok-neopytnyx-programmis"&gt;7 типичных ошибок неопытных программистов&lt;/a&gt;»&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Также упоминалось:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Книги
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.books.ru/books/php-5-604678/"&gt;PHP 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://market.yandex.ru/product/1429912/?ncrnd=4798"&gt;Приемы объекто-оринтированного проектирования&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://shop.oreilly.com/category/series/head-first.do"&gt;Head First&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Курсы
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.coursera.org/"&gt;Courcera&lt;/a&gt;, &lt;a href="https://www.coursera.org/course/interactivepython1интерактивная"&gt;Введение в интерактивную разработку на Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.udemy.com/"&gt;Udemi.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.codeschool.com/"&gt;CodeSchool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.codecademy.com/"&gt;Codeacademy&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Сайты
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.phptherightway.com/"&gt;PHP. The Right Way&lt;/a&gt;, &lt;a href="http://getjump.github.io/ru-php-the-right-way/"&gt;русская версия&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.yiiframework.com/"&gt;Yii&lt;/a&gt;, &lt;a href="http://yiicookbook.org/"&gt;Yii Application Development Cookbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://symfony.com/"&gt;Synfony&lt;/a&gt;, &lt;a href="http://symfony.com/doc/current/cookbook/index.html"&gt;Cookbook&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Подкасты
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.radio-t.com/"&gt;Radio-T&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.healthyhacker.com/"&gt;Heathy Hacker&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://localhost:2368/2015/04/06/for-beniggners/</link><guid isPermaLink="false">b7690549-87e7-4828-842d-42170b26bb73</guid><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Mon, 06 Apr 2015 20:44:11 GMT</pubDate></item><item><title>3. Команда</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
 &lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_3.mp3" type="audio/mpeg"&gt;  
 &lt;/audio&gt;  
 
@@ -28,7 +61,7 @@
 &lt;li&gt;&lt;a href="https://ru.wikipedia.org/wiki/Рефакторинг"&gt;Рефакторинг&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://ru.wikipedia.org/wiki/Непрерывная_интеграция"&gt;Continuous Integration&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://martinfowler.com/bliki/ContinuousDelivery.html"&gt;Continuous Delivery&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><link>http://localhost:2368/2015/02/24/team/</link><guid isPermaLink="false">c482a2a4-fbf3-495d-a06c-bc75a628adf5</guid><category>выпуск</category><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Wed, 25 Feb 2015 04:26:33 GMT</pubDate></item><item><title>2. Game/Mobile/Web-разработка</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+&lt;/ul&gt;</description><link>http://localhost:2368/2015/02/25/team/</link><guid isPermaLink="false">c482a2a4-fbf3-495d-a06c-bc75a628adf5</guid><category>выпуск</category><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Wed, 25 Feb 2015 04:26:33 GMT</pubDate></item><item><title>2. Game/Mobile/Web-разработка</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
 &lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_2.mp3" type="audio/mpeg"&gt;  
 &lt;/audio&gt;  
 
