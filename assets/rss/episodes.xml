@@ -3,7 +3,8 @@
     <channel>
         <title>todo</title>
         <link>http://todopodcast.github.io</link>
-        <description>Подкаст для начинающих разработчиков. Выходит примерно раз в неделю. Выпуски не дольше часа.</description>
+        <description>Подкаст для начинающих разработчиков. Выходит примерно раз в неделю. Выпуски не дольше часа.
+        </description>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>ru</language>
         <pubDate>Thu, 20 Nov 2014 10:26:03 +0300</pubDate>
@@ -13,7 +14,7 @@
         <itunes:block>no</itunes:block>
         <itunes:author>Konstantin Chukhlomin, Stas Ivanov</itunes:author>
         <itunes:category text="Education"/>
-            <itunes:category text="Technology"/>
+        <itunes:category text="Technology"/>
         <itunes:category text="Technology">
             <itunes:category text="Software How-To"/>
         </itunes:category>
@@ -25,7 +26,8 @@
 <br />20:42 Краткий обзор вакансий
 <br />24:59 Анонс</p>]]></description>
             <pubDate>Thu, 20 Nov 2014 10:26:02 +0300</pubDate>
-            <enclosure url="http://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_1.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_1.mp3" length="0"
+                       type="audio/mpeg"/>
             <guid isPermaLink="false">4BA46B90-0F1B-4D47-98A7-537B7161D1A1</guid>
             <itunes:summary><![CDATA[02:06 Представление Стаса
 10:25 Представление Константина
@@ -68,7 +70,8 @@
 
 Извините за сбивчивый рассказ, но мы стараемся. Оставляйте ваши комментарии в iTunes и на сайте http://todopodcast.github.io.]]></description>
             <pubDate>Thu, 10 Dec 2014 22:20:02 +0300</pubDate>
-            <enclosure url="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_2.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_2.mp3" length="0"
+                       type="audio/mpeg"/>
             <guid isPermaLink="false">7A03832A-0531-4D07-9A20-AAF84C0D6A83</guid>
             <itunes:summary><![CDATA[00:40 Разработка игр
 01:15 – Blitz 3D
@@ -131,7 +134,8 @@
 </ul>
 ]]></description>
             <pubDate>Thu, 24 Feb 2015 23:40:02 -0500</pubDate>
-            <enclosure url="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_3.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_3.mp3" length="0"
+                       type="audio/mpeg"/>
             <guid isPermaLink="false">BC8D6EF2-E990-4809-A12E-CE1DD61022BE</guid>
             <itunes:summary><![CDATA[00:55 Наши новости: повышение
 07:20 Рубль
@@ -202,7 +206,8 @@
 </ul>
 ]]></description>
             <pubDate>Mon, 6 Apr 2015 23:54:00 +0300</pubDate>
-            <enclosure url="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_4.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_4.mp3" length="0"
+                       type="audio/mpeg"/>
             <guid isPermaLink="false">F2C17579-D94E-4D55-9752-B84546D4670F</guid>
             <itunes:summary><![CDATA[00:30 Представление Жени, как все начиналось
 02:50 Что почитать
