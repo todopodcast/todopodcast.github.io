@@ -3,18 +3,16 @@
     <channel>
         <title>todo</title>
         <link>http://todopodcast.github.io</link>
-        <description>Подкаст для начинающих разработчиков. Выходит примерно раз в неделю. Выпуски не дольше часа.
+        <description>Подкаст для начинающих разработчиков. Выходит примерно раз в месяц. Выпуски не дольше часа.
         </description>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>ru</language>
         <pubDate>Thu, 20 Nov 2014 10:26:03 +0300</pubDate>
-        <lastBuildDate>Thu, 24 Feb 2015 23:40:02 -0500</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2015 22:50:00 +0300</lastBuildDate>
         <itunes:image href="http://todopodcast.github.io/assets/images/logo_1400.png"/>
         <itunes:explicit>clean</itunes:explicit>
         <itunes:block>no</itunes:block>
-        <itunes:author>Konstantin Chukhlomin, Stas Ivanov</itunes:author>
-        <itunes:category text="Education"/>
-        <itunes:category text="Technology"/>
+        <itunes:author>Konstantin Chukhlomin, Stas Ivanov, Evgeny Zinder</itunes:author>
         <itunes:category text="Technology">
             <itunes:category text="Software How-To"/>
         </itunes:category>
@@ -237,6 +235,35 @@
 ]]></itunes:summary>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>25:05</itunes:duration>
+        </item>
+        <item>
+            <title>5. Собеседования</title>
+            <link>http://todopodcast.github.io/2015/04/27/interview/</link>
+            <description><![CDATA[<p>00:41 Опыт Стаса
+<br />01:23 Какие бывают собеседования
+<br />01:50 Опыт Жени
+<br />03:30 Общий сценарий
+<br />04:29 Стадии собеседований
+<br />17:14 О чем могут спросить
+<br />43:05 Почему уходят с работы</p>
+<p>Также упоминалось: Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com</p>
+]]></description>
+            <pubDate>Mon, 27 Apr 2015 22:50:00 +0300</pubDate>
+            <enclosure url="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_5.mp3" length="0"
+                       type="audio/mpeg"/>
+            <guid isPermaLink="false">B72ED8D9-6A31-4CED-9FA5-18E702F55BD8</guid>
+            <itunes:summary><![CDATA[00:41 Опыт Стаса
+01:23 Какие бывают собеседования
+01:50 Опыт Жени
+03:30 Общий сценарий
+04:29 Стадии собеседований
+17:14 О чем могут спросить
+43:05 Почему уходят с работы
+
+Также упоминалось: Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com 
+]]></itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>49:22</itunes:duration>
         </item>
     </channel>
 </rss>
