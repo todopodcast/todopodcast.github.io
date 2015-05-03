@@ -45,14 +45,14 @@
             <itunes:explicit>no</itunes:explicit>
             <description>
                 <![CDATA[<p>00:40 Разработка игр</p>
-<p>01:15 – Blitz 3D</p>
-<p>02:00 – Unity (Monument Valley, The Room, Teslagrad)</p>
+<p>01:15 – <a href="http://www.blitzbasic.com/">Blitz 3D</a></p>
+<p>02:00 – <a href="http://unity3d.com/ru">Unity</a> (<a href="http://www.monumentvalleygame.com/">Monument Valley</a>, <a href="http://www.fireproofgames.com/the-room">The Room</a>, <a href="http://teslagrad.com/">Teslagrad</a>)</p>
 <p>07:30 – Спрайты / анимация</p>
 <p>11:00 – Про тренинг о коллаборации</p>
 <p>12:10 – Игры под Web</p>
 <p>12:44 Разработка мобильный приложений</p>
-<p>13:15 – Android, Android Studio, JetBrains</p>
-<p>14:15 – iOs, Objective-C, Swift, Xcode</p>
+<p>13:15 – Android, <a href="https://developer.android.com/sdk/index.html">Android Studio</a>, <a href="https://www.jetbrains.com/">JetBrains</a></p>
+<p>14:15 – iOs, Objective-C, <a href="https://developer.apple.com/swift/">Swift</a>, <a href="https://developer.apple.com/xcode/">Xcode</a></p>
 <p>18:20 Разработка под Web</p>
 <p>18:30 – PHP</p>
 <p>23:30 – Javascript</p>
@@ -72,7 +72,7 @@
 <li><a href="https://www.docker.com/">Docker</a></li>
 <li>Книга «Разработка высоконагруженных систем» (По материалам конференции HighLoad++ 2010-2011</li>
 </ul>
-<p>Извините за сбивчивый рассказ, но мы стараемся. Оставляйте ваши комментарии в iTunes и на сайте http://todopodcast.github.io.</p>]]>
+<p>Извините за сбивчивый рассказ, но мы стараемся. Оставляйте ваши комментарии в iTunes и на <a href="http://todopodcast.github.io">сайте</a></p>]]>
             </description>
         </item>
         <item>
