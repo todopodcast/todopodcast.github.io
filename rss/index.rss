@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>todo</title><description>Подкаст для начинающих разработчиков</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Mon, 27 Apr 2015 19:52:01 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>5. Собеседования</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>todo</title><description>Подкаст для начинающих разработчиков</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Sun, 03 May 2015 12:06:54 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>5. Собеседования</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
 &lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_5.mp3" type="audio/mpeg"&gt;  
 &lt;/audio&gt;  
 
@@ -35,7 +35,7 @@
 &lt;li&gt;&lt;a href="http://market.yandex.ru/product/1429912/?ncrnd=4798"&gt;Приемы объекто-оринтированного проектирования&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://shop.oreilly.com/category/series/head-first.do"&gt;Head First&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Курсы
-&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.coursera.org/"&gt;Courcera&lt;/a&gt;, &lt;a href="https://www.coursera.org/course/interactivepython1интерактивная"&gt;Введение в интерактивную разработку на Python&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.coursera.org/"&gt;Courcera&lt;/a&gt;, &lt;a href="https://www.coursera.org/course/interactivepython1"&gt;Введение в интерактивную разработку на Python&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.udemy.com/"&gt;Udemi.com&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.codeschool.com/"&gt;CodeSchool&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.codecademy.com/"&gt;Codeacademy&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
@@ -89,7 +89,7 @@
 &lt;code&gt;07:30&lt;/code&gt; – Спрайты / анимация&lt;br&gt;
 &lt;code&gt;11:00&lt;/code&gt; – Про тренинг о коллаборации&lt;br&gt;
 &lt;code&gt;12:10&lt;/code&gt; – Игры под Web&lt;br&gt;
-&lt;code&gt;12:44&lt;/code&gt; Разработка мобильный приложений&lt;br&gt;
+&lt;code&gt;12:44&lt;/code&gt; Разработка мобильных приложений&lt;br&gt;
 &lt;code&gt;13:15&lt;/code&gt; – Android, &lt;a href="https://developer.android.com/sdk/index.html"&gt;Android Studio&lt;/a&gt;, &lt;a href="https://www.jetbrains.com/"&gt;JetBrains&lt;/a&gt;&lt;br&gt;
 &lt;code&gt;14:15&lt;/code&gt; – iOs, Objective-C, &lt;a href="https://developer.apple.com/swift/"&gt;Swift&lt;/a&gt;, &lt;a href="https://developer.apple.com/xcode/"&gt;Xcode&lt;/a&gt;&lt;br&gt;
 &lt;code&gt;18:20&lt;/code&gt; Разработка под Web&lt;br&gt;
