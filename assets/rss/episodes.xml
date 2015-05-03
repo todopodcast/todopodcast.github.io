@@ -28,10 +28,12 @@
             <enclosure url="http://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_1.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>25:38</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:summary><![CDATA[02:06 Представление Стаса
+            <description>
+                <![CDATA[02:06 Представление Стаса
 10:25 Представление Константина
 20:42 Краткий обзор вакансий
-24:59 Анонс]]></itunes:summary>
+24:59 Анонс]]>
+            </description>
         </item>
         <item>
             <title>2. Game/Mobile/Web-разработка</title>
@@ -41,23 +43,24 @@
             <enclosure url="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_2.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>48:43</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:summary><![CDATA[<p>00:40 Разработка игр
-<br />01:15 – Blitz 3D
-<br />02:00 – Unity (Monument Valley, The Room, Teslagrad)
-<br />07:30 – Спрайты / анимация
-<br />11:00 – Про тренинг о коллаборации
-<br />12:10 – Игры под Web
-<br />12:44 Разработка мобильный приложений
-<br />13:15 – Android, Android Studio, JetBrains
-<br />14:15 – iOs, Objective-C, Swift, Xcode
-<br />18:20 Разработка под Web
-<br />18:30 – PHP
-<br />23:30 – Javascript
-<br />25:25 – HTML / Верстка
-<br />28:30 – ...
-<br />39:30 – Backend
-<br />44:20 Web & Game
-<br />46:25 ВКонтакте</p>
+            <description>
+                <![CDATA[<p>00:40 Разработка игр</p>
+<p>01:15 – Blitz 3D</p>
+<p>02:00 – Unity (Monument Valley, The Room, Teslagrad)</p>
+<p>07:30 – Спрайты / анимация</p>
+<p>11:00 – Про тренинг о коллаборации</p>
+<p>12:10 – Игры под Web</p>
+<p>12:44 Разработка мобильный приложений</p>
+<p>13:15 – Android, Android Studio, JetBrains</p>
+<p>14:15 – iOs, Objective-C, Swift, Xcode</p>
+<p>18:20 Разработка под Web</p>
+<p>18:30 – PHP</p>
+<p>23:30 – Javascript</p>
+<p>25:25 – HTML / Верстка</p>
+<p>28:30 – ...</p>
+<p>39:30 – Backend</p>
+<p>44:20 Web & Game</p>
+<p>46:25 ВКонтакте</p>
 <p>Также упоминалось:</p>
 <ul>
 <li><a href="http://getbootstrap.com/">Bootstrap</a></li>
@@ -69,8 +72,8 @@
 <li><a href="https://www.docker.com/">Docker</a></li>
 <li>Книга «Разработка высоконагруженных систем» (По материалам конференции HighLoad++ 2010-2011</li>
 </ul>
-
-Извините за сбивчивый рассказ, но мы стараемся. Оставляйте ваши комментарии в iTunes и на сайте http://todopodcast.github.io.]]></itunes:summary>
+<p>Извините за сбивчивый рассказ, но мы стараемся. Оставляйте ваши комментарии в iTunes и на сайте http://todopodcast.github.io.</p>]]>
+            </description>
         </item>
         <item>
             <title>3. Команда</title>
@@ -80,17 +83,18 @@
             <enclosure url="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_3.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>26:45</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:summary><![CDATA[<p>00:55 Наши новости: повышение
-<br />07:20 Рубль
-<br />09:40 Доклад Пацан накодил — пацан протестил!
-<br />12:30 Тема выпуска
-<br />12:50 Одиночки
-<br />13:40 Парное программирование
-<br />16:30 Как поставлен процесс разработки у нас
-<br />18:30 Состав команды
-<br />21:00 Конфликты в команде
-<br />21:40 Менеджеры мешают?
-<br />23:00 Переход в менеджеры</p>
+            <description>
+                <![CDATA[<p>00:55 Наши новости: повышение</p>
+<p>07:20 Рубль</p>
+<p>09:40 Доклад Пацан накодил — пацан протестил!</p>
+<p>12:30 Тема выпуска</p>
+<p>12:50 Одиночки</p>
+<p>13:40 Парное программирование</p>
+<p>16:30 Как поставлен процесс разработки у нас</p>
+<p>18:30 Состав команды</p>
+<p>21:00 Конфликты в команде</p>
+<p>21:40 Менеджеры мешают?</p>
+<p>23:00 Переход в менеджеры</p>
 <p>Также упоминалось:</p>
 <ul>
 <li><a href="https://ru.wikipedia.org/wiki/Разработка_через_тестирование">TDD</a></li>
@@ -103,7 +107,8 @@
 <li><a href="https://ru.wikipedia.org/wiki/Непрерывная_интеграция">Continuous Integration</a></li>
 <li><a href="http://martinfowler.com/bliki/ContinuousDelivery.html">Continuous Delivery</a></li>
 </ul>
-]]></itunes:summary>
+]]>
+            </description>
         </item>
         <item>
             <title>4. Начинающим</title>
@@ -113,13 +118,14 @@
             <enclosure url="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_4.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>25:05</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:summary><![CDATA[<p>00:30 Представление Жени, как все начиналось
-<br />02:50 Что почитать
-<br />05:40 Онлайн курсы, сайты
-<br />06:50 Что слушать?
-<br />09:05 Куда идти
-<br />10:00 Как попасть в веб-студию
-<br />17:06 Статья «<a href="http://prog-school.ru/2010/02/7-tipichnyx-oshibok-neopytnyx-programmis">7 типичных ошибок неопытных программистов</a>»</p>
+            <description>
+                <![CDATA[<p>00:30 Представление Жени, как все начиналось</p>
+<p>02:50 Что почитать</p>
+<p>05:40 Онлайн курсы, сайты</p>
+<p>06:50 Что слушать?</p>
+<p>09:05 Куда идти</p>
+<p>10:00 Как попасть в веб-студию</p>
+<p>17:06 Статья «<a href="http://prog-school.ru/2010/02/7-tipichnyx-oshibok-neopytnyx-programmis">7 типичных ошибок неопытных программистов</a>»</p>
 <p>Также упоминалось:</p>
 <ul>
 <li>Книги
@@ -151,7 +157,8 @@
     </ul>
 </li>
 </ul>
-]]></itunes:summary>
+]]>
+            </description>
         </item>
         <item>
             <title>5. Собеседования</title>
@@ -169,7 +176,6 @@
 <p>04:29 Стадии собеседований</p>
 <p>17:14 О чем могут спросить</p>
 <p>43:05 Почему уходят с работы</p>
-
 <p>Также упоминалось: <a href="http://habrahabr.ru/company/htmlacademy/blog/254825/">Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com</a>.</p>
 ]]>
             </description>
