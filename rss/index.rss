@@ -1,4 +1,30 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>todo podcast</title><description>Подкаст для начинающих разработчиков</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Fri, 03 Jul 2015 16:18:31 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>5. Собеседования</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>todo podcast</title><description>Подкаст для начинающих разработчиков</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Tue, 07 Jul 2015 03:29:27 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>6. Фриланс</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+&lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_6.mp3" type="audio/mpeg"&gt;  
+&lt;/audio&gt;  
+
+&lt;p&gt;&lt;a href="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_6.mp3"&gt;Скачать&lt;/a&gt; 32 МБ ≈ 33 минуты&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;01:00&lt;/code&gt; Биржи: &lt;a href="http://fl.ru/"&gt;fl.ru&lt;/a&gt;, &lt;a href="https://www.upwork.com/"&gt;upwork.com&lt;/a&gt; (oDesk), &lt;a href="http://freelansim.ru/"&gt;freelansim.ru&lt;/a&gt;, &lt;a href="http://www.truelancer.com/"&gt;truelancer.com&lt;/a&gt;, &lt;a href="http://www.weblancer.net/"&gt;weblancer.net&lt;/a&gt;, &lt;a href="https://freelance.ru/"&gt;freelance.ru&lt;/a&gt;&lt;br&gt;
+&lt;code&gt;02:00&lt;/code&gt; Опыт Жени&lt;br&gt;
+&lt;code&gt;08:00&lt;/code&gt; Опыт Кости&lt;br&gt;
+&lt;code&gt;09:40&lt;/code&gt; Резкое изменение требований&lt;br&gt;
+&lt;code&gt;10:50&lt;/code&gt; Неоплаченная работа&lt;br&gt;
+&lt;code&gt;11:50&lt;/code&gt; Пропавший испольнитель&lt;br&gt;
+&lt;code&gt;13:10&lt;/code&gt; Посредники&lt;br&gt;
+&lt;code&gt;16:35&lt;/code&gt; Уход из фриланса&lt;br&gt;
+&lt;code&gt;19:10&lt;/code&gt; Западный/российский фриланс&lt;br&gt;
+&lt;code&gt;21:00&lt;/code&gt; Networking&lt;br&gt;
+&lt;code&gt;22:00&lt;/code&gt; Еще одна история из жизни&lt;br&gt;
+&lt;code&gt;28:30&lt;/code&gt; Предоплата&lt;br&gt;
+&lt;code&gt;31:40&lt;/code&gt; Анонс&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Также упоминался &lt;a href="http://tema.livejournal.com/337226.html"&gt;шаблон договора на создание сайта&lt;/a&gt;.
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Уже работали фрилансером? Напишите нам о своём опыте!
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;К следующему выпуску:&lt;/strong&gt; мы готовимся к интервью с нашим знакомым из The New York Times, напишите ваши вопросы в комментариях к выпуску здесь или в нашем паблике &lt;a href="http://vk.com/todopodcast"&gt;ВКонтакте&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description><link>http://localhost:2368/2015/07/06/freelance/</link><guid isPermaLink="false">476b13f4-a8e7-4765-8b7b-1d3816564d2d</guid><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Tue, 07 Jul 2015 02:19:18 GMT</pubDate></item><item><title>5. Собеседования</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
 &lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_5.mp3" type="audio/mpeg"&gt;  
 &lt;/audio&gt;  
 
@@ -13,7 +39,7 @@
 &lt;code&gt;43:05&lt;/code&gt; Почему уходят с работы&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;Также упоминалось: &lt;a href="http://habrahabr.ru/company/htmlacademy/blog/254825/"&gt;Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com&lt;/a&gt;
-&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description><link>http://localhost:2368/2015/04/26/interview/</link><guid isPermaLink="false">c76efe2b-8a27-4497-8ca6-78ea7dcc5ef2</guid><category>выпуск</category><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Sun, 26 Apr 2015 21:08:00 GMT</pubDate></item><item><title>4. Начинающим</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description><link>http://localhost:2368/2015/04/26/interview/</link><guid isPermaLink="false">c76efe2b-8a27-4497-8ca6-78ea7dcc5ef2</guid><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Sun, 26 Apr 2015 21:08:00 GMT</pubDate></item><item><title>4. Начинающим</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
 &lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_4.mp3" type="audio/mpeg"&gt;  
 &lt;/audio&gt;  
 
@@ -46,7 +72,7 @@
 &lt;li&gt;Подкасты
 &lt;ul&gt;&lt;li&gt;&lt;a href="http://www.radio-t.com/"&gt;Radio-T&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.healthyhacker.com/"&gt;Heathy Hacker&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><link>http://localhost:2368/2015/04/06/for-beniggners/</link><guid isPermaLink="false">b7690549-87e7-4828-842d-42170b26bb73</guid><category>выпуск</category><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Mon, 06 Apr 2015 20:44:11 GMT</pubDate></item><item><title>3. Команда</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+&lt;/ul&gt;</description><link>http://localhost:2368/2015/04/06/for-beniggners/</link><guid isPermaLink="false">b7690549-87e7-4828-842d-42170b26bb73</guid><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Mon, 06 Apr 2015 20:44:11 GMT</pubDate></item><item><title>3. Команда</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
 &lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_3.mp3" type="audio/mpeg"&gt;  
 &lt;/audio&gt;  
 
@@ -76,7 +102,7 @@
 &lt;li&gt;&lt;a href="https://ru.wikipedia.org/wiki/Рефакторинг"&gt;Рефакторинг&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://ru.wikipedia.org/wiki/Непрерывная_интеграция"&gt;Continuous Integration&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://martinfowler.com/bliki/ContinuousDelivery.html"&gt;Continuous Delivery&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><link>http://localhost:2368/2015/02/24/team/</link><guid isPermaLink="false">c482a2a4-fbf3-495d-a06c-bc75a628adf5</guid><category>выпуск</category><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Wed, 25 Feb 2015 04:26:33 GMT</pubDate></item><item><title>2. Game/Mobile/Web-разработка</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+&lt;/ul&gt;</description><link>http://localhost:2368/2015/02/24/team/</link><guid isPermaLink="false">c482a2a4-fbf3-495d-a06c-bc75a628adf5</guid><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Wed, 25 Feb 2015 04:26:33 GMT</pubDate></item><item><title>2. Game/Mobile/Web-разработка</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
 &lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_2.mp3" type="audio/mpeg"&gt;  
 &lt;/audio&gt;  
 
@@ -115,7 +141,7 @@
 (По материалам конференции HighLoad++ 2010-2011)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Извините за сбивчивый рассказ, но мы стараемся. Оставляйте ваши комментарии в iTunes и на этом сайте.&lt;/p&gt;</description><link>http://localhost:2368/2014/12/10/game-mobile-web/</link><guid isPermaLink="false">654d6b88-3810-4b22-bda6-f30446f65807</guid><category>выпуск</category><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Wed, 10 Dec 2014 19:20:00 GMT</pubDate></item><item><title>1. Пилотный выпуск (обрезки)</title><description>&lt;audio controls preload="none" data-length="108" width="100%"&gt;  
+&lt;p&gt;Извините за сбивчивый рассказ, но мы стараемся. Оставляйте ваши комментарии в iTunes и на этом сайте.&lt;/p&gt;</description><link>http://localhost:2368/2014/12/10/game-mobile-web/</link><guid isPermaLink="false">654d6b88-3810-4b22-bda6-f30446f65807</guid><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Wed, 10 Dec 2014 19:20:00 GMT</pubDate></item><item><title>1. Пилотный выпуск (обрезки)</title><description>&lt;audio controls preload="none" data-length="108" width="100%"&gt;  
 &lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_1_cut.mp3" type="audio/mpeg"&gt;  
 &lt;/audio&gt;
 
@@ -128,4 +154,4 @@
 &lt;p&gt;&lt;code&gt;02:06&lt;/code&gt; Представление Стаса&lt;br&gt;
 &lt;code&gt;10:25&lt;/code&gt; Представление Константина&lt;br&gt;
 &lt;code&gt;20:42&lt;/code&gt; Краткий обзор вакансий&lt;br&gt;
-&lt;code&gt;24:59&lt;/code&gt; Анонс&lt;/p&gt;</description><link>http://localhost:2368/2014/11/18/pilot/</link><guid isPermaLink="false">2b7e7dac-2b0a-4fe4-8a2a-3d987b0477d9</guid><category>выпуск</category><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Tue, 18 Nov 2014 07:00:00 GMT</pubDate></item></channel></rss>
+&lt;code&gt;24:59&lt;/code&gt; Анонс&lt;/p&gt;</description><link>http://localhost:2368/2014/11/18/pilot/</link><guid isPermaLink="false">2b7e7dac-2b0a-4fe4-8a2a-3d987b0477d9</guid><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Tue, 18 Nov 2014 07:00:00 GMT</pubDate></item></channel></rss>
