@@ -193,7 +193,7 @@
             <itunes:duration>33:20</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>
-                <![CDATA[<ul><li>01:00 Биржи: [fl.ru](http://fl.ru), [upwork.com](https://www.upwork.com) (oDesk), [freelansim.ru](http://freelansim.ru), [truelancer.com](http://www.truelancer.com), [weblancer.net](http://www.weblancer.net), [freelance.ru](https://freelance.ru)</li>
+                <![CDATA[<ul><li>01:00 Биржи: <a href="http://fl.ru">fl.ru</a>, <a href="https://www.upwork.com">upwork.com</a> (oDesk), <a href="http://freelansim.ru">freelansim.ru</a>, <a href="http://www.truelancer.com">truelancer.com</a>, <a href="http://www.weblancer.net">weblancer.net</a>, <a href="https://freelance.ru">freelance.ru</a></li>
 <li>02:00 Опыт Жени</li>
 <li>08:00 Опыт Кости</li>
 <li>09:40 Резкое изменение требований</li>
