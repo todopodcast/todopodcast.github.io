@@ -1,4 +1,26 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>todo podcast</title><description>Подкаст для начинающих разработчиков</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Wed, 29 Jul 2015 08:14:59 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>6. Фриланс</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>todo podcast</title><description>Подкаст для начинающих разработчиков</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Tue, 12 Jan 2016 15:03:36 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>7. Interview with Greg</title><description>&lt;audio controls preload="none" data-length="2602" width="100%"&gt;  
+&lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_7.mp3" type="audio/mpeg"&gt;  
+&lt;/audio&gt;  
+
+&lt;p&gt;&lt;a href="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_7.mp3"&gt;Скачать&lt;/a&gt; 41 МБ ≈ 43 минуты&lt;/p&gt;
+
+&lt;p&gt;Привет, в первую очередь хочется попросить пращение за долгое ожидание. Мы правда очень хотели снабдить выпуск субтитрами, но было очень тяжело. В конце концов решили выложить как есть.&lt;/p&gt;
+
+&lt;p&gt;Это выпуск на английском языке. Если вы совсем не знаете языка, можете смело его не слушать, ничего страшного. Хотя американский акцент не самый сложный для восприятия.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;02:26&lt;/code&gt; Работа до The New York Times, найм&lt;br&gt;
+&lt;code&gt;05:51&lt;/code&gt; О языках программирования&lt;br&gt;
+&lt;code&gt;08:44&lt;/code&gt; О повышении до менеджера&lt;br&gt;
+&lt;code&gt;13:36&lt;/code&gt; О найме разработчиков глазами сотрудника компании&lt;br&gt;
+&lt;code&gt;20:00&lt;/code&gt; Об интернах&lt;br&gt;
+&lt;code&gt;22:20&lt;/code&gt; День "100%", "Code Weekly", &lt;br&gt;
+&lt;code&gt;26:40&lt;/code&gt; Инфраструктура в компании&lt;br&gt;
+&lt;code&gt;31:10&lt;/code&gt; Инструмент в котором сотрудники предлагают свои идеи&lt;br&gt;
+&lt;code&gt;34:30&lt;/code&gt; Хобби&lt;br&gt;
+&lt;code&gt;35:15&lt;/code&gt; Самое больше достижение&lt;br&gt;
+&lt;code&gt;36:56&lt;/code&gt; Самая большая ошибка&lt;br&gt;
+&lt;code&gt;39:40&lt;/code&gt; Напутственные слова&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;</description><link>http://localhost:2368/2016/01/12/interview-greg/</link><guid isPermaLink="false">0f519a7d-fed3-4048-9eb5-85d57effa175</guid><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Tue, 12 Jan 2016 15:00:00 GMT</pubDate></item><item><title>6. Фриланс</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
 &lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_6.mp3" type="audio/mpeg"&gt;  
 &lt;/audio&gt;  
 
@@ -24,7 +46,7 @@
 &lt;p&gt;Уже работали фрилансером? Напишите нам о своём опыте!
 &lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;К следующему выпуску:&lt;/strong&gt; мы готовимся к интервью с нашим знакомым из The New York Times, напишите ваши вопросы в комментариях к выпуску здесь или в нашем паблике &lt;a href="http://vk.com/todopodcast"&gt;ВКонтакте&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description><link>http://localhost:2368/2015/07/07/freelance/</link><guid isPermaLink="false">476b13f4-a8e7-4765-8b7b-1d3816564d2d</guid><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Tue, 07 Jul 2015 02:19:18 GMT</pubDate></item><item><title>5. Собеседования</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+&lt;p&gt;&lt;strong&gt;К следующему выпуску:&lt;/strong&gt; мы готовимся к интервью с нашим знакомым из The New York Times, напишите ваши вопросы в комментариях к выпуску здесь или в нашем паблике &lt;a href="http://vk.com/todopodcast"&gt;ВКонтакте&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description><link>http://localhost:2368/2015/07/06/freelance/</link><guid isPermaLink="false">476b13f4-a8e7-4765-8b7b-1d3816564d2d</guid><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Tue, 07 Jul 2015 02:19:18 GMT</pubDate></item><item><title>5. Собеседования</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
 &lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_5.mp3" type="audio/mpeg"&gt;  
 &lt;/audio&gt;  
 
@@ -39,7 +61,7 @@
 &lt;code&gt;43:05&lt;/code&gt; Почему уходят с работы&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;Также упоминалось: &lt;a href="http://habrahabr.ru/company/htmlacademy/blog/254825/"&gt;Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com&lt;/a&gt;
-&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description><link>http://localhost:2368/2015/04/27/interview/</link><guid isPermaLink="false">c76efe2b-8a27-4497-8ca6-78ea7dcc5ef2</guid><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Sun, 26 Apr 2015 21:08:00 GMT</pubDate></item><item><title>4. Начинающим</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description><link>http://localhost:2368/2015/04/26/interview/</link><guid isPermaLink="false">c76efe2b-8a27-4497-8ca6-78ea7dcc5ef2</guid><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Sun, 26 Apr 2015 21:08:00 GMT</pubDate></item><item><title>4. Начинающим</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
 &lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_4.mp3" type="audio/mpeg"&gt;  
 &lt;/audio&gt;  
 
@@ -102,7 +124,7 @@
 &lt;li&gt;&lt;a href="https://ru.wikipedia.org/wiki/Рефакторинг"&gt;Рефакторинг&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://ru.wikipedia.org/wiki/Непрерывная_интеграция"&gt;Continuous Integration&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://martinfowler.com/bliki/ContinuousDelivery.html"&gt;Continuous Delivery&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><link>http://localhost:2368/2015/02/25/team/</link><guid isPermaLink="false">c482a2a4-fbf3-495d-a06c-bc75a628adf5</guid><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Wed, 25 Feb 2015 04:26:33 GMT</pubDate></item><item><title>2. Game/Mobile/Web-разработка</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
+&lt;/ul&gt;</description><link>http://localhost:2368/2015/02/24/team/</link><guid isPermaLink="false">c482a2a4-fbf3-495d-a06c-bc75a628adf5</guid><dc:creator>Konstantin Chukhlomin</dc:creator><pubDate>Wed, 25 Feb 2015 04:26:33 GMT</pubDate></item><item><title>2. Game/Mobile/Web-разработка</title><description>&lt;audio controls preload="none" data-length="2923" width="100%"&gt;  
 &lt;source src="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_2.mp3" type="audio/mpeg"&gt;  
 &lt;/audio&gt;  
 

@@ -213,5 +213,33 @@
 ]]>
             </description>
         </item>
+        <item>
+            <title>7. Interview with Greg</title>
+            <link>http://todopodcast.github.io/2016/01/11/interview-greg/</link>
+            <guid isPermaLink="false">8FA5DD3E-ACC6-42B1-AfA0-E2FB8E2DFAAD</guid>
+            <pubDate>Tue, 12 Jan 2016 10:00:00 -0500</pubDate>
+            <enclosure url="https://s3-eu-west-1.amazonaws.com/todopodcast/todo_podcast_7.mp3" length="0" type="audio/mpeg"/>
+            <itunes:duration>43:22</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>
+                <![CDATA[
+                <p>Привет, в первую очередь хочется попросить пращение за долгое ожидание. Мы правда очень хотели снабдить выпуск субтитрами, но было очень тяжело. В конце концов решили выложить как есть.</p><p>Это выпуск на английском языке. Если вы совсем не знаете языка, можете смело его не слушать, ничего страшного. Хотя американский акцент не самый сложный для восприятия.</p>
+<ul>
+<li>02:26 Работа до The New York Times, найм</li>
+<li>05:51 О языках программирования</li>
+<li>08:44 О повышении до менеджера</li>
+<li>13:36 О найме разработчиков глазами сотрудника компании</li>
+<li>20:00 Об интернах</li>
+<li>22:20 День "100%", "Code Weekly", </li>
+<li>26:40 Инфраструктура в компании</li>
+<li>31:10 Инструмент в котором сотрудники предлагают свои идеи</li>
+<li>34:30 Хобби</li>
+<li>35:15 Самое больше достижение</li>
+<li>36:56 Самая большая ошибка</li>
+<li>39:40 Напутственные слова</li>
+</ul>
+]]>
+            </description>
+        </item>
     </channel>
 </rss>
